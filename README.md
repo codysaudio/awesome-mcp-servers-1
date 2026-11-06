@@ -241,6 +241,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Scrapezy](https://github.com/scrapezy/mcp)** - Turn websites into datasets with [Scrapezy](https://scrapezy.com)
 - **[ScreenshotMCP](https://github.com/upnorthmedia/ScreenshotMCP/)** - Capture website screenshots including full page, elements, and device specific sizes.
 - **[ScreenshotOne](https://github.com/screenshotone/mcp/)** - Render website screenshots with [ScreenshotOne](https://screenshotone.com/)
+- **[SecretVoice](https://secretvoice.dev/mcp)** - Intimate voice AI: 29 voices, 22 languages, emoji vocal cues (👂 whisper, 😮‍💨 sigh, 🌬️ breathless) and multi-voice scenes. Remote Streamable HTTP server with OAuth 2.1 and dynamic client registration.
 - **[Semgrep](https://github.com/semgrep/mcp)** - Enable AI agents to secure code with [Semgrep](https://semgrep.dev/).
 - **[Sentry](https://github.com/getsentry/sentry-mcp)** - Official MCP server for [Sentry](https://sentry.io).
 - **[SingleStore](https://github.com/singlestore-labs/mcp-server-singlestore)** - Interact with the SingleStore database platform
